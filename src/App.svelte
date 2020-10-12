@@ -6,6 +6,8 @@
 
 <div class="container">
   <Title />
+
   <Home />
-  <Footer />
+  
+	<Footer />
 </div>

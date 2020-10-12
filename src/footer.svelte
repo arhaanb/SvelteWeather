@@ -12,6 +12,6 @@
     <span class="red">&hearts;</span>
     by
     <a href="//arhaanb.co" target="_blank">Arhaan</a>
-    in Svelte
+    with Svelte
   </h6>
 </footer>
