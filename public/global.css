@@ -1,0 +1,71 @@
+@font-face {
+	font-family: "bestfont";
+	src: url("./regular.ttf");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body, input {
+	font-family: 'bestfont', 'segoe ui', 'Arial', 'sans-serif';
+	color: #222;
+}
+
+img {
+	border-radius: 0.5em;
+	border: solid #69e 1px;
+	width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	color: rgba(34, 34, 34, 0.7);
+}
+
+.center {
+	text-align: center;
+}
+
+.title {
+	margin-top: 1em;
+	margin-bottom: 0.3em;
+}
+
+.data {
+	margin-bottom: 2em;
+}
+
+.data h6 {
+	text-transform: capitalize;
+}
+
+.cap, input {
+	text-transform: capitalize;
+}
+
+.red {
+	color: rgb(245, 75, 75);
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+a {
+	color: #222;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #222;
+	border-bottom: solid 1px #222;
+}
