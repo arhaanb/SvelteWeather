@@ -2,8 +2,8 @@
   import axios from 'axios'
   import Loading from './loading.svelte'
 
-  const appid_openweather = __myapp.env.API_OPENWEATHER
-  const apikey_heremaps = __myapp.env.API_KEY_HEREMAPS
+  const appid_openweather = process.env.API_OPENWEATHER
+  const apikey_heremaps = process.env.API_KEY_HEREMAPS
   var loading = false
   var city = ''
   var tempcity = ''

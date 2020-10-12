@@ -29,7 +29,7 @@ export default {
 
 		replace({
 			// stringify the object       
-			__myapp: JSON.stringify({
+			process: JSON.stringify({
 				env: {
 					isProd: production,
 					...config().parsed // attached the .env config
