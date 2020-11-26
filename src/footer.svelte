@@ -9,7 +9,8 @@
 <footer class="footer center">
   <h6>
     Made with
-    <span class="red">&hearts;</span>
+    <!-- <span class="red">&hearts;</span> -->
+    <span class="red">💗</span>
     by
     <a href="//arhaanb.co" target="_blank">Arhaan</a>
     with Svelte

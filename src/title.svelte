@@ -5,9 +5,11 @@
       <p>
         This is a shitty weather app. Enter city to get ur weather. This
         application uses the
-        <a href="//arhaanb.co">Open Weather API</a>
+        <a href="https://openweathermap.org/api" target="_blank">Open Weather
+          API</a>
         and
-        <a href="//arhaanb.co">Here Maps API.</a>
+        <span><a href="https://developer.here.com/" target="_blank">Here Maps
+            API</a>.</span>
         The map takes a second to load because the API kinda slow :/
       </p>
     </div>
