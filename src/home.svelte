@@ -2,8 +2,8 @@
   import axios from "axios";
   import Loading from "./loading.svelte";
 
-  const appid_openweather = process.env.API_OPENWEATHER;
-  const apikey_heremaps = process.env.API_KEY_HEREMAPS;
+  const appid_openweather = '0f38af93617bddcbb7118ed9533fe1b4';
+  const apikey_heremaps = 'TQYAxVf-EvKsbwb2-L_7qHX76iCgk0Eu1j6utc3lw7A';
   var loading = false;
   var city = "";
   var tempcity = "";
